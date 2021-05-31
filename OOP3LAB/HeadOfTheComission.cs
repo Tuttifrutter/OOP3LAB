@@ -13,7 +13,7 @@
         public string CheckingTheContentOfCarbonDioxideInTheExhaust()
         {
             return "Проверка содержания углекислого газа в выхлопах: успешно пройдена; ";
-        }
+        } 
         public string CheckingTheEmergencyKit()
         {
             return "Проверка наличия аптечки, огнетушителя, знака аварийной остановки: успешно пройдена; ";
